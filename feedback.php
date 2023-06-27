@@ -96,7 +96,7 @@ if (!isset($_SESSION['uname'])) {
 
             </div>
             <div class="col-lg-4 ml-auto">
-              <h3 class="mb-4">Let's talk about everything.</h3>
+              <h3 class="mb-4">What's on your mind about us? just write.</h3>
               <p>Do Let Us Carnow Your Thoughts and Suggestions on How We Can Survey You Better. Give us feedback on how you feel about our service.</p>
               
             </div>
