@@ -31,8 +31,8 @@ if (!isset($_SESSION['uname'])) {
         <div class="col-lg-6 mx-auto">
 <div class="card ">
                 <div class="card-header">
-                    <center><img src="img/logo.png" width="40%">
-                    <h6> Near Upansna Circle, Surendranagar</h6></center>
+                    <center><img src="img/tixielogoo.png" width="250px">
+                    <h6> XXI Java Mall Semarang</h6></center>
                     <?php 
                   include "Database.php";
                   $result = mysqli_query($conn,"SELECT c.movie,c.booking_date,c.show_time,c.seat,c.totalseat,c.price,c.payment_date,c.custemer_id,u.username,u.email,u.mobile,u.city,t.theater FROM customers c INNER JOIN user u on c.uid=u.id INNER JOIN theater_show t on c.show_time=t.show WHERE custemer_id = '".$_SESSION['custemer_id']."'");
@@ -42,8 +42,8 @@ if (!isset($_SESSION['uname'])) {
                 ?>
                     <table>
                         <tr>
-                        <td>+91 846050 2720</td>
-                        <td style="padding: 12px 2px 12px 155px;">Custemer Id: <?php echo $row['custemer_id'];?></td>
+                        <td>+62 8432 5674</td>
+                        <td style="padding: 12px 2px 12px 155px;">Customer Id: <?php echo $row['custemer_id'];?></td>
                     </tr>
                     <tr>
                         <td></td><td style="padding: 1px 2px 1px 155px;">Date: <?php echo $row['payment_date'];?></td>
