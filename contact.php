@@ -50,9 +50,9 @@ session_start();
                         </div>
                         <ul>
                             <li>
-                                <h4>Surendranagar</h4>
-                                <p>Inox Cinema, Near Upashna Circle, Surendranagar.  <br />+91 187-654-3210
-                                    <br />+91 258-963-1470</p>
+                                <h4>Tixie Indonesia</h4>
+                                <p>Jl. Imam Bonjol No. 31, Semarang Indonesia.  <br />+62 822 442 3321
+                                    <br />+62 821 3521 2232</p>
                             </li>
                         
                         </ul>
