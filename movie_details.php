@@ -58,7 +58,7 @@ include("header.php");
         
         <table class="content-table">
           <thead><tr>
-            <th colspan="2">Movie Deatils</th>
+            <th colspan="2">Movie Details</th>
           </tr>
         </thead>
        
@@ -70,7 +70,7 @@ include("header.php");
             <td>Release Date</td><td><?php echo $row['release_date'];?></td>
           </tr>
           <tr>
-            <td>Directer Name</td><td><?php echo $row['directer'];?></td>
+            <td>Director Name</td><td><?php echo $row['directer'];?></td>
           </tr>
           <tr>
             <td>Category</td><td><?php echo $row['categroy'];?></td>
@@ -80,7 +80,7 @@ include("header.php");
           </tr>
          
           <tr>
-            <td>Tailer</td><td><a data-toggle="modal" data-target="#tailer_modal<?php echo $row['id'];?>">Veiw Tailer</a></td>
+            <td>Tailer</td><td><a data-toggle="modal" data-target="#tailer_modal<?php echo $row['id'];?>">View Trailer</a></td>
             <div class="modal fade" id="tailer_modal<?php echo $row['id'];?>" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
