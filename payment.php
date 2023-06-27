@@ -82,31 +82,31 @@ if (!isset($_SESSION['uname'])) {
                                     $A = "A".$i;
                                     
                                 if(in_array($I,$seats)){
-                                    $price=$price+100;
+                                    $price=$price+30000;
                                 }
                                 if (in_array($H, $seats)){
-                                   $price=$price+100;   
+                                   $price=$price+30000;   
                                 }
                                 if (in_array($G, $seats)){
-                                   $price=$price+100;   
+                                   $price=$price+30000;   
                                 }
                                 if (in_array($F, $seats)){
-                                   $price=$price+150;   
+                                   $price=$price+40000;   
                                 }
                                 if (in_array($E, $seats)){
-                                   $price=$price+150;   
+                                   $price=$price+40000;   
                                 }
                                 if (in_array($D, $seats)){
-                                   $price=$price+150;   
+                                   $price=$price+40000;   
                                 }
                                 if (in_array($C, $seats)){
-                                   $price=$price+150;   
+                                   $price=$price+40000;   
                                 }
                                 if (in_array($B, $seats)){
-                                   $price=$price+150;   
+                                   $price=$price+40000;   
                                 }
                                 if (in_array($A, $seats)){
-                                   $price=$price+300;   
+                                   $price=$price+50000;   
                                 }
                             }                              
                            
