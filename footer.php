@@ -5,9 +5,9 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__logo">
-                            <a href="#"><img src="img/logo.png" alt=""></a>
+                            <a href="#"><img src="img/tixiefooter.png" alt=""></a>
                         </div>
-                        <p>The customer is at the heart of our unique business model, which inculde online movie book show.</p>
+                        <p>Always innovate and beyond.</p>
                         <a href="#"><img src="img/payment.png" alt=""></a>
                     </div>
                 </div>
@@ -39,8 +39,7 @@
                     <div class="footer__widget">
                         <h6>LOCATION</h6>
                         <div class="footer__newslatter">
-                            <p>Inox Cinema, Near Upashna Circle, 
-                                Wadhwan,Surendranagar-363020,
+                            <p>Jl. Imam Bonjol No.32, Semarang, Indonesia, 50132.
                                
 </p>
                             
@@ -56,7 +55,7 @@
                             <script>
                                 document.write(new Date().getFullYear());
                             </script>-2020 
-                            This project devlope by Gainam Gosalia Mo. 8460502720
+                            This project is developed by a team on Udinus for study Purposes.
                         </p>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </div>
